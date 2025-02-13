@@ -21,6 +21,7 @@ PyPI から `pip` でインストールできます：
 ```bash
 pip install redistorage
 ```
+Redisもインストールし、起動しておいてください。
 
 ---
 
