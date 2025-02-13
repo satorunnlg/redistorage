@@ -2,8 +2,8 @@
 
 [![PyPI](https://img.shields.io/pypi/v/redistorage)](https://pypi.org/project/redistorage/)
 [![Python Version](https://img.shields.io/pypi/pyversions/redistorage)](https://pypi.org/project/redistorage/)
-[![License](https://img.shields.io/pypi/l/redistorage)](https://github.com/yourusername/redistorage/blob/main/LICENSE)
-[![Build](https://github.com/yourusername/redistorage/actions/workflows/pypi-publish.yml/badge.svg)](https://github.com/yourusername/redistorage/actions)
+[![License](https://img.shields.io/pypi/l/redistorage)](https://github.com/satorunnlg/redistorage/blob/main/LICENSE)
+[![Build](https://github.com/satorunnlg/redistorage/actions/workflows/pypi-publish.yml/badge.svg)](https://github.com/satorunnlg/redistorage/actions)
 
 **redistorage** は、**Redis をストレージとして活用する Python モデルライブラリ** です。  
 Django の `models.Model` のように、**シンプルな Python クラスとしてデータ管理** が可能で、設定管理・キャッシュ・セッション管理などに適しています。  
@@ -124,9 +124,9 @@ class CustomConfig(RedisStorageModel):
 ---
 
 ## **🌍 リンク**
-- **GitHub:** [https://github.com/yourusername/redistorage](https://github.com/yourusername/redistorage)
+- **GitHub:** [https://github.com/satorunnlg/redistorage](https://github.com/satorunnlg/redistorage)
 - **PyPI:** [https://pypi.org/project/redistorage/](https://pypi.org/project/redistorage/)
-- **Issue & バグ報告:** [https://github.com/yourusername/redistorage/issues](https://github.com/yourusername/redistorage/issues)
+- **Issue & バグ報告:** [https://github.com/satorunnlg/redistorage/issues](https://github.com/satorunnlg/redistorage/issues)
 
 ---
 
